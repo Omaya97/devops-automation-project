@@ -15,6 +15,7 @@ public class DevopsIntegrationApplication {
 	}
 
 	public static void main(String[] args) {
+		System.out.println("Hello Devops Integration Application");
 		SpringApplication.run(DevopsIntegrationApplication.class, args);
 	}
 
